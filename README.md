@@ -57,6 +57,7 @@ All necessary code files and any additional information required to judge your p
 
 ### Project Presentation Deck:
 _Upload/ Link a 3min. presentation deck here._
+[Presentation deck here](https://github.com/Khushi-Sk/Quantum-AI-for-Climate/blob/main/Wildfire.pptx)
 
 See project presentation guidelines [here](https://docs.google.com/document/d/13nWF8AxFAfFYTWEYPT3BpPdYkqtxxSAjmuXj_zcMh-E/edit?usp=sharing)
 
