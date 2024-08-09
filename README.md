@@ -32,9 +32,9 @@ Ensure your repository is public and submitted by **August 9, 2024, 23:59pm US E
 Ensure your repository does not contain any personal or team tokens/access information to access backends. Ensure your repository does not contain any third-party intellectual property (logos, company names, copied literature, or code). Any resources used must be open source or appropriately referenced.
 
 ### Team Information:
-Team Member 1:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
+Team Member 1 (solo participate) :
+ - Full Name: Khushi Sukar
+ - Womanium Program Enrollment ID WQ24-LvKWJFBrHKCpfrE (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
 
 Team Member 2:
  - Full Name: 
@@ -54,6 +54,8 @@ Team Member 4:
 ### Project Solution:
 _Include a comprehensive summary of all important information about your project solution here._
 All necessary code files and any additional information required to judge your project solution should be included in the repository. 
+(This was too big to cover in slides) [Google Research Firebench](https://github.com/google-research/firebench/blob/main/examples/colab/Firebench_Browser.ipynb) [FireBench](https://github.com/google-research/firebench/blob/main/examples/beam/compute_stats_test.py) [Firebench Dataset](https://console.cloud.google.com/storage/browser/firebench/v2024.04;tab=objects?prefix=&forceOnObjectsSortingFiltering=false)
+
 
 ### Project Presentation Deck:
 _Upload/ Link a 3min. presentation deck here._
